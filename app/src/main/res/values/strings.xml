@@ -4,5 +4,7 @@
     <string name="passwordUser">Пароль</string>
     <string name="mailUser">Электронная почта</string>
     <string name="OK">OK</string>
+    <string name="info">%1$s оформил(а) подписку на электронную почту %2$s</string>
     <string name="Clear">Очистить</string>
+    <string name="ClearTxt">Нет данных</string>
 </resources>
